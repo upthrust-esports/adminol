@@ -1,0 +1,13 @@
+{
+  "name": "injection-server",
+  "version": "1.0.0",
+  "description": "Injection Server",
+  "main": "Injection_server.js",
+  "scripts": {
+    "start": "node Injection_server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
