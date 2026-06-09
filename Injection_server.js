@@ -23,7 +23,8 @@ const _a = [
   "d16ba92ae1b2cac526d360d59036f6e6c708d59b6112b7875b3995f79c3cc279",
   "c58feb9addcce3cceae9677273fb40ef76fb259901854f81fc8029b059a63f5d",
   "79878f11dbdd9d8d1d34c29d3769f790a37d8e853e85f1f9a22d93b9f22a8d69",
-  "68f1f2b3b3eb5f680c793c4785e08dfb857c0f3dd4f4c9e9bc97d826c89f3f6d"
+  "68f1f2b3b3eb5f680c793c4785e08dfb857c0f3dd4f4c9e9bc97d826c89f3f6d",
+  "c58feb9addcce3cceae9677273fb40ef76fb259901854f81fc8029b059a63f5d"
 ];
 
 // ── SECRET HANDSHAKE ─────────────────────────────────────────
